@@ -33,6 +33,8 @@ int main() {
     // Imprimir a arvore
     arvv_imprime(a);
 
+    // TODO arvv_altura
+    // TODO arvv_folhas
 
 
     return EXIT_SUCCESS;
